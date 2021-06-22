@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260921106979",
+    "project_id": "recapitulando-92d5f",
+    "storage_bucket": "recapitulando-92d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260921106979:android:a3d994f4e2ed4e3373c796",
+        "android_client_info": {
+          "package_name": "com.carlosales.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260921106979-fg0t0kn3omafajl0l53toprj2ps78d6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLA7ID9H4hidcDUvwEZWPhCI6ar1tbiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260921106979-fg0t0kn3omafajl0l53toprj2ps78d6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
